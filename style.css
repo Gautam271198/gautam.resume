@@ -1,5 +1,5 @@
 * {
-    background-color: skyblue;
+    background-color: antiquewhite; 
     margin: 5px;
     padding: .1px;
 }
@@ -14,40 +14,51 @@ li {
     font-family: Arial, sans-serif;
 }
 h1 {
-    color: blue;
+    color: whitesmoke;
+    background-color: darkseagreen;
     font-size: 2em;
     font-family: Arial, sans-serif;
 }
 h2 {
-    color: green;
+    color: whitesmoke;
+    background-color: darkseagreen;
     font-size: 1em;
     font-family: Arial, sans-serif;
 }
 .summary {
-    color: blue;
+    color: #FAF8F1;
+    background-color: #C58940;
     font-size: 0.5em;
     font-family: Arial, sans-serif;
 }
 .certifications {
+    color: #FAF8F1;
+    background-color: #C58940;
     font-size: 1em;
     font-family: Arial, sans-serif;
 }
 .company-details {
     font-size: .5em;
-    color : blue;
+    color: #FAF8F1;
+    background-color: #C58940;
     font-family: Arial, sans-serif;
 }
 .head-name {
+    color: #FAF8F1;
+    background-color: #C58940;
     text-align: center;
     font-size: 2em;
     font-family: Arial, sans-serif;
 }
 .photo {
+    background-color: #C58940;
     float: right;
     width: 100px;
     height: 100px;
 }
 .address {
+    color: #FAF8F1;
+    background-color: #C58940;
     float: ;
     font-size: .5em;
     font-family: Arial, sans-serif;
